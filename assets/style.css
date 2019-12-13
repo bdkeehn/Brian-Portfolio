@@ -1,0 +1,60 @@
+body{
+    background-image: url(../assets/images/sunset.jpg);
+    background-size: cover;
+}
+h1{
+     font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+.para{
+    background-color:rgb(243, 171, 145);
+    float: left;
+    border: solid;
+}
+#welcome{
+    background-color: rgb(255, 228, 196);
+}
+
+.flow-text{
+    font-family: 'Raleway', sans-serif;
+   
+
+}
+#table{
+    margin-right: 20px;
+
+
+}
+.fa-facebook { 
+    background: rgb(47, 79, 148);
+    color: white;
+} 
+.fa-twitter{
+    background: #55ACEE;
+    color: white;
+}
+.fa-instagram {
+    background: #125688;
+    color: white;}
+
+    .fa-linkedin {
+        background: #007bb5;
+        color: white;
+      }
+
+#page-footer{
+    bottom: 0px;
+    width:100%;
+}
+.thailand{
+    overflow: scroll;
+}
+.scroll{
+    border: 1px dotted black;
+    overflow-y: scroll;
+    height:600px;
+    width: 617px;
+}
+
+
+
